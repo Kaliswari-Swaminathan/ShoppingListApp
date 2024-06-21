@@ -1,0 +1,21 @@
+/*.strike {
+    text-decoration: line-through;
+}*/
+
+.strike{
+    position: relative;
+}
+.strike::after {
+    border-bottom: 2px solid rgb(22, 22, 22);
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 45%;
+}
+.bg-custom {
+    background-color: rgb(16, 16, 214);
+}
+.navbar-brand {
+    color: white !important;
+}
