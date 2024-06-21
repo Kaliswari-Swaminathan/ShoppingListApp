@@ -1,5 +1,5 @@
-# Shopping List App:
-            Welcome to the Shopping List App! This application is designed to help you manage your shopping list more efficiently by allowing you to create, update, and track your shopping lists with ease.
+# Shopping List App
+This application is designed to help you manage your shopping list more efficiently by allowing you to create, update, and track your shopping lists with ease.
    
 ## Key Features:
 
